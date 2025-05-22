@@ -85,6 +85,8 @@ pip install askui
 
 To get started, set the environment variables required to authenticate with your chosen model provider.
 
+
+
 #### How to set an environment variable?
 1. Create `.env` file similar to `.env.template` and update required credentials.
 
