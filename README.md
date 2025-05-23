@@ -1,5 +1,7 @@
 # 🧪 Google Hackathon - Game Testing Agent
 
+![Screenshot of the game](screenshot.png)
+
 ## ⚙️ Prerequisites
 
 Before you can set up and run your agent, ensure you have the following installed:
