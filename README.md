@@ -12,7 +12,6 @@ Before you can set up and run your agent, ensure you have the following installe
 
 ## 🔧 Setup
 
->>>>>>> d4898d1 (kk)
 ### 1. Install AskUI Agent OS
 
 Agent OS is a device controller that allows agents to take screenshots, move the mouse, click, and type on the keyboard across any operating system.
