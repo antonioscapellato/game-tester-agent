@@ -1,6 +1,4 @@
-# 🧪 Google Hackathon with AskUI
-
-Join us as we explore how to build your first AI-powered agent for automating software testing. With AskUI, you'll create agents that interact with interfaces visually—just like a human. No matter your experience level, this is your chance to experiment, learn, and build something innovative.
+# 🧪 Google Hackathon - Game Testing Agent
 
 ## ⚙️ Prerequisites
 
@@ -12,13 +10,6 @@ Before you can set up and run your agent, ensure you have the following installe
 
 ## 🔧 Setup
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 782d443 (init)
-=======
 >>>>>>> d4898d1 (kk)
 ### 1. Install AskUI Agent OS
 
